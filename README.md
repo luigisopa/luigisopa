@@ -5,7 +5,7 @@ I'm a researcher and lecturer at HSD Hochschule Döpfer, with a focus on visual 
 ## 🔍 Research Interests
 - Visual literacy
 - Eye tracking
-- Experimental PSychology
+- Experimental Psychology
 - Data Science
 - Art and complex visual stimuli
 
@@ -13,7 +13,7 @@ I'm a researcher and lecturer at HSD Hochschule Döpfer, with a focus on visual 
 I'm looking to collaborate on psychological and methodological research.
 
 ## 📬 Contact
-You can reach me by PM here or at m.tallon@hs-doepfer.de.
+You can reach me by PM here or at m.tallon at hs-doepfer dot de.
 
 ## 🌐 Links
 - [My HSD Hochschule Döpfer profile](https://www.hs-doepfer.de/hochschule/team/miles-tallon)
