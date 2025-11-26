@@ -17,5 +17,5 @@ You can reach me by PM here.
 
 ## 🌐 Links
 - [My HSD Hochschule Döpfer profile](https://www.hs-doepfer.de/hochschule/team/miles-tallon)
-- ORCID at [https://orcid.org/0000-0002-7217-0952](https://orcid.org/0000-0002-7217-0952).
+- [https://orcid.org/0000-0002-7217-0952](https://orcid.org/0000-0002-7217-0952).
 
